@@ -4,4 +4,4 @@ COPY /target/spring-petclinic-2.3.0.BUILD-SNAPSHOT.jar D:/MAESTRIA/DisenoEmpresa
 
 
 CMD
-["java","-jar","/home/spring-petclinic-2.3.0.jar"]
+["java","-jar","D:/MAESTRIA/DisenoEmpresarial/TrabajoFinal/spring-petclinic-2.3.0.jar"]
